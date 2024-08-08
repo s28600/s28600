@@ -5,3 +5,4 @@ Repos in my profile:
 + REST_and_DB_Applications - REST APIs using .NET framework
 + Physics_Simulation - using applied mathematics to calculate physics like trajectory of a falling or rolling object, pendulum, string, earth cycle around sun, heatmap and so on using methods including Euler, Midpoint and RK4
 + Distributed_Programming_Techniques - java programs utilizing java.net to implement client-server communication, servlet and using APIs to get information for display
++ Warships_Game_Project - warships game in python where you can select number and size of ships, play PvP or PvE, save game state to file and then load, made with tkinter library
